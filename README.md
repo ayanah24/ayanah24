@@ -1,86 +1,90 @@
-# 👋 Hey there, I'm Ayan Ahmad  
+# 👋 Hi, I'm Ayan Ahmad
 
-### 💻 Full-Stack Developer | MERN Stack | Problem Solver | Tech Explorer  
-
----
-
-### 🧩 About Me  
-
-I'm a **Computer Science student** and a passionate **Full-Stack Web Developer** who loves crafting elegant, scalable, and user-focused digital experiences.  
-My journey started with curiosity for how websites work — now I design, build, and deploy complete solutions using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.  
-
-I enjoy turning abstract ideas into real, functional applications — from concept to deployment.  
-Every project I build is not just code, but a reflection of my mindset: **clean architecture, reusable components, and problem-solving at the core**.  
-
-I’m currently learning **DevOps** — exploring CI/CD, Docker, and deployment automation — to bridge the gap between development and production.  
-Beyond that, I have a growing interest in **Artificial Intelligence and Machine Learning**, aiming to blend data-driven intelligence with web technologies.
+### 💻 Full-Stack Developer (MERN) | Backend Focused | Computer Science Student  
 
 ---
 
-### ⚙️ My Tech Toolbox  
+## 🧭 About Me  
 
-#### 💻 Languages  
-- **C++** – Strong foundation through DSA & problem-solving  
-- **JavaScript (ES6+)** – Core language for front-end and back-end logic  
-- **HTML5 & CSS3** – Semantic, responsive, and accessible web design  
+I'm a **Computer Science and Engineering student**, with a strong interest in **backend development and scalable system design**.  
+Over time, I’ve developed a solid understanding of both **frontend and backend technologies**, allowing me to build complete, production-ready web applications.  
 
-#### ⚡ Frameworks & Libraries  
-- **React.js** – Building fast, dynamic UIs with hooks, state, and props  
-- **Node.js & Express.js** – RESTful APIs, middleware, and scalable backends  
-- **Tailwind CSS & Bootstrap** – Rapid and beautiful UI development  
+My primary focus is on **backend development using Node.js and Express.js**, where I enjoy designing APIs, managing databases, and optimizing performance.  
+Alongside that, I work with **React.js** to create clean, interactive, and component-driven frontends — ensuring the overall experience is both functional and user-friendly.  
 
-#### 🗄️ Databases  
-- **MongoDB** – Document-based, flexible schema for modern web apps  
-- **MySQL** – Relational database for structured data needs  
-
-#### 🧰 Tools & Platforms  
-- **Git & GitHub** – Version control, collaboration, and open-source contribution  
-- **VS Code** – Primary development environment  
-- **Postman** – API testing and debugging  
-- **npm** – Dependency management and package scripts  
+I prefer writing code that’s **modular, readable, and easy to maintain**. Most of my learning happens through building projects — I believe real understanding comes from solving real problems.  
+Currently, I’m exploring **DevOps practices**, deployment workflows, and improving how I structure and deliver full-stack solutions.
 
 ---
 
-### 🏗️ What I Love Building  
+## 🛠️ Skills & Technologies  
 
- ⚙️ **Full-stack web applications** that combine performance and usability  
- 🧭 **RESTful APIs** that are secure, efficient, and developer-friendly  
- 🧩 **Reusable UI components** that improve scalability and maintainability  
-  🚀 **Automation pipelines** for faster builds and deployments  
- 💡 **Projects that solve real-world problems** — from small tools to large platforms  
+### 🧠 Core Programming  
+- **C++:** Strong foundation in Data Structures & Algorithms  
+- **JavaScript (ES6+):** Core scripting language for both frontend and backend  
+
+### ⚙️ Backend Development (Main Focus)
+- **Node.js & Express.js:** RESTful APIs, routing, middleware, authentication, error handling  
+- **MongoDB:** Schema design, queries, and aggregation for scalable NoSQL databases  
+- **MySQL:** Relational database design and query optimization  
+- **Authentication:** Using Passport.js, JWT, and Google OAuth  
+- **Architecture:** MVC pattern, modular structure, reusable services, and clean code practices  
+
+### 🎨 Frontend Development
+- **React.js:** Functional components, hooks, state management, API integration, and routing  
+- **Tailwind CSS / Bootstrap:** Fast, responsive UI with clean, modern styling  
+- **EJS:** Server-side rendering for dynamic pages  
+
+### 🧰 Tools & Workflow
+- **Git & GitHub:** Version control, project management, and collaboration  
+- **Postman:** API testing and debugging  
+- **VS Code:** Development environment setup with linting and extensions  
+- **npm:** Package management and build scripts  
+- **Render / Vercel:** Hosting and deployment of full-stack apps  
 
 ---
 
-### 🌟 Featured Project  
+## 🚀 What I Build  
 
-#### 🏙️ [UrbanNest – Online Property Listing Platform](https://urban-next.onrender.com)
-A full-stack property marketplace where users can list, explore, and book properties.  
+- **Full-Stack Web Apps:** Real-world projects that integrate frontend, backend, and databases  
+- **APIs & Microservices:** Secure and efficient RESTful endpoints  
+- **Authentication Systems:** Role-based access, session control, and token-based systems  
+- **Responsive UIs:** Dynamic React interfaces that focus on usability  
+- **Error-Handled Backends:** Centralized error and request validation mechanisms  
+
+---
+
+## 🧩 Featured Project  
+
+### 🏙️ [UrbanNest – Online Property Listing Platform](https://urban-next.onrender.com)
+A complete real-estate platform for users to list, search, and book properties.  
 
 **Tech Stack:** MongoDB | Express.js | Node.js | EJS | Bootstrap  
 
-**Highlights:**  
-- 🔐 Authentication with **Passport.js & Google OAuth**  
-- 🧱 Organized **MVC architecture** for scalable backend logic  
-- ⚙️ **Custom middleware** for error handling and validation  
-- 📱 Fully responsive and user-centric design  
+**Key Features:**  
+- Secure authentication with **Passport.js** and **Google OAuth**  
+- RESTful APIs for CRUD operations  
+- Centralized error handling with clean MVC structure  
+- Responsive, organized, and scalable codebase  
 
 ---
 
-### 📈 My Growth Mindset  
+## 📈 My Focus & Learning Path  
 
-I’m a developer who learns by building.  
-I believe real growth comes from **understanding the “why” behind the code**, not just the syntax.  
-To strengthen my logical thinking, I regularly solve DSA problems and participate in coding challenges.
-
-- 🧩 100+ problems solved on [LeetCode](https://leetcode.com/u/ayan_ahmad24/)  
-- 💻 150+ problems across **GfG, CodeChef, and Coding Ninjas**  
+- Deepening backend architecture understanding and optimization  
+- Exploring **DevOps tools** (Docker, CI/CD) for automated deployments  
+- Strengthening **system design and DSA fundamentals**  
+- Building more **React + Node integrated projects**  
+- Experimenting with **AI/ML APIs** to blend data and web technology  
 
 ---
 
-### 🎯 Current Focus  
+## 🔗 Connect With Me  
 
-- 🌐 Deepening backend architecture understanding  
-- 🐳 Learning **Docker**, **CI/CD**, and DevOps workflow  
-- 🤖 Exploring **AI integrations** with web technologies  
-- 🧠 Strengthen
+- **GitHub:** [github.com/ayanah24](https://github.com/ayanah24)  
+- **LinkedIn:** [linkedin.com/in/ayan-ahmad-464528214](https://www.linkedin.com/in/ayan-ahmad-464528214)  
+- **Email:** [ayan27452@gmail.com](mailto:ayan27452@gmail.com)  
+- **X(twitter):** [x.com/ayan27452](https://x.com/ayan27452)  
+---
+
 
