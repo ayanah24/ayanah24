@@ -75,7 +75,7 @@ A complete real-estate platform for users to list, search, and book properties.
 - Exploring **DevOps tools** (Docker, CI/CD) for automated deployments  
 - Strengthening **system design and DSA fundamentals**  
 - Building more **React + Node integrated projects**  
-- Experimenting with **AI/ML APIs** to blend data and web technology  
+- Experimenting with **AI/ML APIs** to blend data and web technology
 
 ---
 
