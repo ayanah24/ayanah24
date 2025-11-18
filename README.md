@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayan Ahmad
 
-### 💻 Full-Stack Developer (MERN) | Backend Focused | Computer Science Student  
+### 💻 Full-Stack Developer (MERN) | Backend Focused | Computer Science Student
 
 ---
 
