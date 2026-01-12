@@ -18,7 +18,8 @@ Currently, I’m exploring **DevOps practices**, deployment workflows, and impro
 ---
 
 ## 🛠️ Skills & Technologies  
-
+💻 Tech Stack:
+C++ CSS3 HTML5 JavaScript C Python Render Vercel AWS Google Cloud Bootstrap Context-API EJS Express.js FastAPI JWT NodeJS Nodemon React React Router React Hook Form Redux Socket.io TailwindCSS Vite Nginx Apache MySQL MongoDB
 ### 🧠 Core Programming  
 - **C++:** Strong foundation in Data Structures & Algorithms  
 - **JavaScript (ES6+):** Core scripting language for both frontend and backend  
